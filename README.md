@@ -1,0 +1,2 @@
+# skolenie
+ucenie sa 
