@@ -1,3 +1,4 @@
 Jahodka
 - fajn
 - vyborna
+- cervena
