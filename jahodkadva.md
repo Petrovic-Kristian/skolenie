@@ -4,4 +4,4 @@ Jahodka 2.
 - cervena
 jahodka nieje taka dobra ako jablcko
 brusnica
-taky fajnovi cajik som si spravil teraz jooj
+###taky fajnovi cajik som si spravil teraz jooj
