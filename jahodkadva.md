@@ -13,3 +13,4 @@ testik len tak na skusku
 =======
     <3 :D
 >>>>>>> new-branch
+jaka fajna je ze
